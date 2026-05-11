@@ -62,9 +62,13 @@ lib/
 └── main.dart
 ## screenshots
 ### home screen
- -(home_screen.jpg)[Home Screen]!
- -(state_screen.jpg)[state Screen]!
- -(state2_screen.jpg)[state Screen]!
- -(add_screen.jpg)[Add Screen]!
- -(profile_screen.jpg)[Profile Screen]!
+ -[Home Screen]<!home_screen.jpg>
+ 
+ -[state Screen]!(state_screen.jpg)
+ 
+ -[state Screen]!(state2_screen.jpg)
+ 
+ -[Add Screen]!(add_screen.jpg)
+ 
+ -[Profile Screen]!(profile_screen.jpg)
  
