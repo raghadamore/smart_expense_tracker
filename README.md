@@ -61,3 +61,6 @@ lib/
 ├── presentation/
 └── main.dart
 ## screenshots
+### home screen
+ -![home_screen.jpg]
+ -
